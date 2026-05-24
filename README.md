@@ -80,30 +80,5 @@ Open `http://localhost:5173` in your browser.
 
 ---
 
-## 🌐 Deployment Guidelines
-
-### Backend — Render Deployment
-The backend is pre-configured to dynamically bind to Render's injection port (`process.env.PORT`) and has CORS enabled for all origins.
-
-1.  Create a new **Web Service** on [Render](https://render.com).
-2.  Connect your GitHub repository.
-3.  Set **Root Directory** to `backend`.
-4.  Set **Build Command** to `npm install`.
-5.  Set **Start Command** to `npm start`.
-6.  Once deployed, copy the Render live URL (e.g. `https://skillbarter-backend.onrender.com`).
-
-### Frontend — Vercel Deployment
-The frontend is configured with a dynamic API Base URL resolver and has `vercel.json` SPA routing rewrites enabled.
-
-1.  Create a new project on [Vercel](https://vercel.com).
-2.  Connect your GitHub repository.
-3.  Set **Root Directory** to `frontend`.
-4.  In **Environment Variables**, add:
-    *   Key: `VITE_API_BASE_URL`
-    *   Value: `https://your-render-backend-url.onrender.com` (Your live Render URL without a trailing slash)
-5.  Click **Deploy**. Vercel will compile the Vite assets and launch your site!
-
----
-
 ## 📜 License
 Developed for peer-to-peer social learning and objective barter swaps. Zero tolerance rules against slurs, harassment, or profanity are strictly monitored.
