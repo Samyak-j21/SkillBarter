@@ -1,0 +1,41 @@
+[
+  {
+    "id": "req_1",
+    "userEmail": "rahul@skillbarter.com",
+    "userName": "Rahul",
+    "needSkill": "Python",
+    "needLevel": "Medium",
+    "needCategory": "Technology",
+    "offerSkill": "JavaScript",
+    "offerLevel": "Medium",
+    "offerCategory": "Technology",
+    "description": "Looking to automate some backend processes with Python. Can teach you advanced vanilla JavaScript DOM manipulation or async/await patterns in return!",
+    "dateStr": "May 24 at 10:00 AM"
+  },
+  {
+    "id": "req_2",
+    "userEmail": "priya@skillbarter.com",
+    "userName": "Priya",
+    "needSkill": "UI/UX",
+    "needLevel": "Medium",
+    "needCategory": "Design",
+    "offerSkill": "Python",
+    "offerLevel": "Medium",
+    "offerCategory": "Technology",
+    "description": "I have an analytics project and need some beautiful UI designs in Figma. In exchange, I can teach you pandas, NumPy, and python script automations.",
+    "dateStr": "May 23 at 03:45 PM"
+  },
+  {
+    "id": "req_3",
+    "userEmail": "kevin@skillbarter.com",
+    "userName": "Kevin",
+    "needSkill": "HTML",
+    "needLevel": "Easy",
+    "needCategory": "Technology",
+    "offerSkill": "Figma",
+    "offerLevel": "Easy",
+    "offerCategory": "Design",
+    "description": "Hey developers! I am a visual designer wanting to learn how to code my layouts in basic HTML and CSS. I will teach you Figma vector layouts and responsive design fundamentals.",
+    "dateStr": "May 22 at 01:15 PM"
+  }
+]

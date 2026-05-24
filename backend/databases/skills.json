@@ -1,0 +1,86 @@
+[
+  {
+    "name": "HTML",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "CSS",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Figma",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "SEO",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Marketing",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "JavaScript",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Python",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "UI/UX",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "React",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Node.js",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "C++",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Algorithms",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Data Science",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "System Programming",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  }
+]

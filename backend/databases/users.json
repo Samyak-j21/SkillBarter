@@ -1,0 +1,302 @@
+[
+  {
+    "email": "rahul@skillbarter.com",
+    "name": "Rahul",
+    "salt": "1a9e5b0b0c7e8107083aa88c361a6932",
+    "passwordHash": "95e167c45c7e2f2e44503ab3efb46c4a5ead44e6d6cde316fe0a9111f5a6cb3174e6c15566c2899d8e4eeb3de11efa9da4153c9313be9410a81b77e894534bc7",
+    "offer": [
+      {
+        "skill": "HTML",
+        "level": "Easy",
+        "category": "Technology"
+      },
+      {
+        "skill": "CSS",
+        "level": "Easy",
+        "category": "Technology"
+      },
+      {
+        "skill": "JavaScript",
+        "level": "Medium",
+        "category": "Technology"
+      }
+    ],
+    "want": [
+      {
+        "skill": "Python",
+        "level": "Medium",
+        "category": "Technology"
+      },
+      {
+        "skill": "C++",
+        "level": "Advanced",
+        "category": "Technology"
+      }
+    ],
+    "bio": "Frontend enthusiast looking to dive into system and backend programming.",
+    "rating": 4.8,
+    "completedExchanges": 4,
+    "badges": [
+      "First Barter",
+      "Fast Learner"
+    ],
+    "reviews": [
+      {
+        "id": "rev_rahul_1",
+        "reviewerName": "Priya",
+        "reviewerEmail": "priya@skillbarter.com",
+        "rating": 5,
+        "comment": "Rahul explained HTML and CSS extremely well. Very patient tutor!",
+        "date": "May 20, 2026"
+      }
+    ]
+  },
+  {
+    "email": "priya@skillbarter.com",
+    "name": "Priya",
+    "salt": "080cfdbd91dab830cd640339fdf00a1c",
+    "passwordHash": "e25d6ec8307600de32f6bab2bb8720ad9cfab8ef092f124b517afa754950b1b76c27c7890f3e024f91ec773d94b4c7ddbff4ecae0b49ae8d388b5956d58deedc",
+    "offer": [
+      {
+        "skill": "Python",
+        "level": "Medium",
+        "category": "Technology"
+      },
+      {
+        "skill": "Data Science",
+        "level": "Advanced",
+        "category": "Technology"
+      },
+      {
+        "skill": "Marketing",
+        "level": "Advanced",
+        "category": "Marketing"
+      },
+      {
+        "skill": "Node.js",
+        "level": "Medium",
+        "category": "Technology"
+      }
+    ],
+    "want": [
+      {
+        "skill": "HTML",
+        "level": "Easy",
+        "category": "Technology"
+      },
+      {
+        "skill": "UI/UX",
+        "level": "Medium",
+        "category": "Design"
+      },
+      {
+        "skill": "Node.js",
+        "level": "Advanced",
+        "category": "Technology"
+      }
+    ],
+    "bio": "Data scientist wanting to build beautiful and intuitive web apps.",
+    "rating": 4.9,
+    "completedExchanges": 8,
+    "badges": [
+      "Trusted Trader",
+      "Skill Maestro"
+    ],
+    "reviews": [
+      {
+        "id": "rev_priya_1",
+        "reviewerName": "Arjun",
+        "reviewerEmail": "arjun@skillbarter.com",
+        "rating": 5,
+        "comment": "Excellent Figma design! My portfolio looks incredibly professional now.",
+        "date": "May 22, 2026"
+      }
+    ]
+  },
+  {
+    "email": "arjun@skillbarter.com",
+    "name": "Arjun",
+    "salt": "9effbbfc4b855060206082dfe5c79724",
+    "passwordHash": "f70daee08777a85b0325d53b32ae39262daf39c1615ecdd2b309c11fe4cf9fed7f1c56ea7554c4badfb3a3c861df966f851c2304e3dc1b8119447721120b268a",
+    "offer": [
+      {
+        "skill": "C++",
+        "level": "Advanced",
+        "category": "Technology"
+      },
+      {
+        "skill": "Algorithms",
+        "level": "Advanced",
+        "category": "Technology"
+      }
+    ],
+    "want": [
+      {
+        "skill": "JavaScript",
+        "level": "Medium",
+        "category": "Technology"
+      },
+      {
+        "skill": "React",
+        "level": "Medium",
+        "category": "Technology"
+      }
+    ],
+    "bio": "Competitive programmer interested in building reactive web dev products.",
+    "rating": 5,
+    "completedExchanges": 12,
+    "badges": [
+      "Top Mentor",
+      "Trusted Trader"
+    ],
+    "reviews": [
+      {
+        "id": "rev_arjun_1",
+        "reviewerName": "Priya",
+        "reviewerEmail": "priya@skillbarter.com",
+        "rating": 5,
+        "comment": "Arjun is a fantastic systems tutor! Pointers are so much easier now.",
+        "date": "May 22, 2026"
+      }
+    ]
+  },
+  {
+    "email": "sarah@skillbarter.com",
+    "name": "Sarah",
+    "salt": "c1a5aa9346ec851107faecabb9cffb00",
+    "passwordHash": "58b04af727aa3680faef0856d6f73c79cd7c34817ebab7c4037cb791baf9d66ddaef04344846c92ed1cbf3f78652cc6e2a3f368ba6b9ac480748a49d4404fb70",
+    "offer": [
+      {
+        "skill": "React",
+        "level": "Medium",
+        "category": "Technology"
+      },
+      {
+        "skill": "Node.js",
+        "level": "Medium",
+        "category": "Technology"
+      }
+    ],
+    "want": [
+      {
+        "skill": "C++",
+        "level": "Advanced",
+        "category": "Technology"
+      },
+      {
+        "skill": "Python",
+        "level": "Medium",
+        "category": "Technology"
+      }
+    ],
+    "bio": "Fullstack dev looking to learn system-level programming and AI pipelines.",
+    "rating": 4.7,
+    "completedExchanges": 6,
+    "badges": [
+      "First Barter",
+      "React Guru"
+    ],
+    "reviews": [
+      {
+        "id": "rev_sarah_1",
+        "reviewerName": "Arjun",
+        "reviewerEmail": "arjun@skillbarter.com",
+        "rating": 4,
+        "comment": "Sarah knows her React! We built a fast dashboard component in no time.",
+        "date": "May 18, 2026"
+      }
+    ]
+  },
+  {
+    "email": "kevin@skillbarter.com",
+    "name": "Kevin",
+    "salt": "fadd705bfbd70a56975ec40e38ad4d44",
+    "passwordHash": "916d0b7f7ed21005227e9c79049205474f5efc6f8aa24f0c8f877f19b25e103c79bba52cd82d28eb2038f8b949e03495a8859d47d91e537192b02470dc1e82bf",
+    "offer": [
+      {
+        "skill": "UI/UX",
+        "level": "Medium",
+        "category": "Design"
+      },
+      {
+        "skill": "Figma",
+        "level": "Easy",
+        "category": "Design"
+      }
+    ],
+    "want": [
+      {
+        "skill": "HTML",
+        "level": "Easy",
+        "category": "Technology"
+      },
+      {
+        "skill": "CSS",
+        "level": "Easy",
+        "category": "Technology"
+      }
+    ],
+    "bio": "Creative designer wanting to learn how to code my visual design components.",
+    "rating": 4.6,
+    "completedExchanges": 3,
+    "badges": [
+      "Design Pro"
+    ],
+    "reviews": [
+      {
+        "id": "rev_kevin_1",
+        "reviewerName": "Rahul",
+        "reviewerEmail": "rahul@skillbarter.com",
+        "rating": 5,
+        "comment": "Great introductory Figma session! Really clean workspace setup.",
+        "date": "May 15, 2026"
+      }
+    ]
+  },
+  {
+    "email": "aisha@skillbarter.com",
+    "name": "Aisha",
+    "salt": "ad430c3e26400bc0d399f8e0f8041f46",
+    "passwordHash": "204318568a28dd0a871e7e3b30748b7f4a0d45f74481f809214c5a2254a570e73a62b781f7be7a410eb09e4ce21867f6804ccbeb7940957f6f3acf41b0d60cbc",
+    "offer": [
+      {
+        "skill": "Marketing",
+        "level": "Easy",
+        "category": "Marketing"
+      },
+      {
+        "skill": "SEO",
+        "level": "Easy",
+        "category": "Marketing"
+      }
+    ],
+    "want": [
+      {
+        "skill": "Python",
+        "level": "Medium",
+        "category": "Technology"
+      },
+      {
+        "skill": "Data Science",
+        "level": "Advanced",
+        "category": "Technology"
+      }
+    ],
+    "bio": "Digital marketer looking to automate analytics tasks with data and Python.",
+    "rating": 4.5,
+    "completedExchanges": 2,
+    "badges": [
+      "SEO Expert"
+    ],
+    "reviews": [
+      {
+        "id": "rev_aisha_1",
+        "reviewerName": "Priya",
+        "reviewerEmail": "priya@skillbarter.com",
+        "rating": 4,
+        "comment": "Insightful SEO strategy review. Highly recommended for business scaling.",
+        "date": "May 24, 2026"
+      }
+    ]
+  }
+]

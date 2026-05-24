@@ -1,0 +1,40 @@
+[
+  {
+    "id": "post_init_1",
+    "title": "🔥 Success Story: Taught Priya C++ in exchange for Advanced UI/UX Figma Design!",
+    "content": "I want to share my experience bartering with Priya. I am a systems programmer and wanted to build a beautiful portfolio website. I spent 4 sessions teaching Priya memory management in C++ and basic pointer logic. In return, she completely revamped my portfolio design in Figma! It was a seamless trade, and we both leveled up our skills. This platform is amazing!",
+    "tag": "Success Story",
+    "authorEmail": "arjun@skillbarter.com",
+    "authorName": "Arjun",
+    "likes": [
+      "priya@skillbarter.com",
+      "sarah@skillbarter.com"
+    ],
+    "comments": [
+      {
+        "id": "cmt_init_1",
+        "authorEmail": "priya@skillbarter.com",
+        "authorName": "Priya",
+        "text": "Arjun is a fantastic tutor! I finally understand C++ pointers. Highly recommend trading with him!",
+        "timestamp": 1779644414018,
+        "dateStr": "2 hours ago"
+      }
+    ],
+    "timestamp": 1779565214018,
+    "dateStr": "Yesterday at 04:30 pm"
+  },
+  {
+    "id": "post_init_2",
+    "title": "Seeker: 💻 Seeking Advanced Python Automation - offering SEO & Digital Marketing",
+    "content": "Hey community! I am running a marketing agency and spending hours copying data across trackers. I would love to learn how to write simple Python automation scripts (using pandas/requests) to automate this. In exchange, I can teach you professional SEO strategies, keyword research, and meta tags optimization that drives actual search traffic. Let's trade!",
+    "tag": "Skill Request",
+    "authorEmail": "aisha@skillbarter.com",
+    "authorName": "Aisha",
+    "likes": [
+      "rahul@skillbarter.com"
+    ],
+    "comments": [],
+    "timestamp": 1779633614018,
+    "dateStr": "5 hours ago"
+  }
+]

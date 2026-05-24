@@ -1,0 +1,118 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-page: #d8d8dc;
+  --bg-card: #e9e9ed;
+  --bg-hover: #cfcfd3;
+  --text-primary: #1a1a1e;
+  --text-secondary: #4a4a4e;
+  --text-muted: #7a7a7e;
+  --border-color: #bebec2;
+  --accent: #2563eb;
+  --accent-soft: rgba(37, 99, 235, 0.05);
+}
+
+body.dark {
+  --bg-page: #000000;
+  --bg-card: #0a0a0a;
+  --bg-hover: #1c1c1e;
+  --text-primary: #f5f5f7;
+  --text-secondary: #a1a1aa;
+  --text-muted: #52525b;
+  --border-color: #27272a;
+  --accent: #3b82f6;
+  --accent-soft: rgba(59, 130, 246, 0.1);
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: var(--bg-page);
+  color: var(--text-primary);
+  @apply antialiased transition-colors duration-300;
+}
+
+/* Global utility classes to bypass failing dark: utilities */
+.theme-bg-page { background-color: var(--bg-page); }
+.theme-bg-card { background-color: var(--bg-card); }
+.theme-bg-hover:hover { background-color: var(--bg-hover); }
+.theme-text-primary { color: var(--text-primary); }
+.theme-text-secondary { color: var(--text-secondary); }
+.theme-text-muted { color: var(--text-muted); }
+.theme-border { border-color: var(--border-color); }
+.theme-accent { color: var(--accent); }
+.theme-bg-accent { background-color: var(--accent); }
+
+/* Infinite Vertical Marquee scroll animations */
+@keyframes scroll-up {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-50%);
+  }
+}
+
+@keyframes scroll-down {
+  0% {
+    transform: translateY(-50%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.animate-scroll-up {
+  animation: scroll-up 24s linear infinite;
+}
+
+.animate-scroll-down {
+  animation: scroll-down 24s linear infinite;
+}
+
+/* Play state control to freeze the track on hover */
+.marquee-hover-pause:hover .animate-scroll-up,
+.marquee-hover-pause:hover .animate-scroll-down {
+  animation-play-state: paused;
+}
+
+/* Classy Glowing and Glassmorphic Borders */
+.classy-glow {
+  box-shadow: 0 0 40px rgba(37, 99, 235, 0.03);
+}
+
+.classy-glow:hover {
+  box-shadow: 0 0 50px rgba(37, 99, 235, 0.08);
+}
+
+/* Tinder Deck Cards Animations */
+@keyframes swipe-left-out {
+  0% {
+    transform: translate(0, 0) rotate(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(-300px, 50px) rotate(-15deg);
+    opacity: 0;
+  }
+}
+
+@keyframes swipe-right-out {
+  0% {
+    transform: translate(0, 0) rotate(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translate(300px, 50px) rotate(15deg);
+    opacity: 0;
+  }
+}
+
+.swipe-left {
+  animation: swipe-left-out 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.swipe-right {
+  animation: swipe-right-out 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
