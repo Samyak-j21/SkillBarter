@@ -107,7 +107,7 @@ export default function Dashboard() {
     setLoading(true);
     setError("");
     try {
-      const response = await fetch(`http://localhost:5000/api/users/matches?email=${encodeURIComponent(email)}`);
+      const response = await fetch(`https://skillbarter-05s6.onrender.com/api/users/matches?email=${encodeURIComponent(email)}`);
       const data = await response.json();
       if (!response.ok) {
         if (response.status === 404 || data.error === "User not found") {

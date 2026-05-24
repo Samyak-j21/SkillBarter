@@ -80,7 +80,7 @@ export default function SkillSearch() {
     setLoading(true);
     setError("");
     try {
-      const response = await fetch(`http://localhost:5000/api/users?exclude=${encodeURIComponent(excludeEmail)}`);
+      const response = await fetch(`https://skillbarter-05s6.onrender.com/api/users?exclude=${encodeURIComponent(excludeEmail)}`);
       const data = await response.json();
       if (!response.ok) {
         throw new Error(data.error || "Failed to fetch users");

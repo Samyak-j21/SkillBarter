@@ -61,7 +61,7 @@ export default function Roadmaps() {
   const fetchUsers = async (myEmail) => {
     setLoading(true);
     try {
-      const response = await fetch(`http://localhost:5000/api/users?exclude=${encodeURIComponent(myEmail)}`);
+      const response = await fetch(`https://skillbarter-05s6.onrender.com/api/users?exclude=${encodeURIComponent(myEmail)}`);
       const data = await response.json();
       if (response.ok) {
         setUsers(data);

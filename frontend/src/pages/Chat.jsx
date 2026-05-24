@@ -156,11 +156,11 @@ export default function Chat() {
     setLoadingChats(true);
     try {
       // 1. Fetch active conversations
-      const resActive = await fetch(`http://localhost:5000/api/chats/active?email=${encodeURIComponent(myEmail)}`);
+      const resActive = await fetch(`https://skillbarter-05s6.onrender.com/api/chats/active?email=${encodeURIComponent(myEmail)}`);
       const activeData = await resActive.json();
 
       // 2. Fetch all registered users for manual directory listing
-      const resAll = await fetch(`http://localhost:5000/api/users?exclude=${encodeURIComponent(myEmail)}`);
+      const resAll = await fetch(`https://skillbarter-05s6.onrender.com/api/users?exclude=${encodeURIComponent(myEmail)}`);
       const allData = await resAll.json();
 
       const normalizedActive = resActive.ok ? activeData.map(c => ({
@@ -201,7 +201,7 @@ export default function Chat() {
   const fetchMessages = async (isSilent = false) => {
     if (!me || !activeContact) return;
     try {
-      const res = await fetch(`http://localhost:5000/api/chats/messages?from=${encodeURIComponent(me.email)}&to=${encodeURIComponent(activeContact.email)}`);
+      const res = await fetch(`https://skillbarter-05s6.onrender.com/api/chats/messages?from=${encodeURIComponent(me.email)}&to=${encodeURIComponent(activeContact.email)}`);
       const data = await res.json();
       if (res.ok) {
         setMessages(data);
