@@ -109,6 +109,51 @@ export default function Chat() {
     scrollRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
 
+  const BASE_PRICES = {
+    "Technology": 450,
+    "Business": 400,
+    "Design": 350,
+    "Marketing": 300,
+    "Photography": 250,
+    "Music": 250,
+    "Languages": 200
+  };
+
+  const MULTIPLIERS = {
+    "Easy": 1.0,
+    "Medium": 1.5,
+    "Advanced": 2.5
+  };
+
+  const getSkillCost = (skillName, level, skillList = []) => {
+    if (!skillName) return 0;
+    const nameLower = skillName.toLowerCase();
+    
+    // Check if skill is in user list and has a category
+    const found = skillList.find(s => s.skill.toLowerCase() === nameLower);
+    let category = found ? found.category : null;
+    
+    if (!category) {
+      // Fallback standard mappings
+      const presets = {
+        "html": "Technology", "css": "Technology", "javascript": "Technology", "python": "Technology",
+        "c++": "Technology", "react": "Technology", "node.js": "Technology", "node": "Technology",
+        "algorithms": "Technology", "data science": "Technology", "typescript": "Technology",
+        "figma": "Design", "ui/ux": "Design", "design": "Design",
+        "marketing": "Marketing", "seo": "Marketing",
+        "guitar": "Music", "piano": "Music", "singing": "Music",
+        "french": "Languages", "spanish": "Languages", "english": "Languages",
+        "photography": "Photography",
+        "public speaking": "Business", "writing": "Business"
+      };
+      category = presets[nameLower] || "Technology";
+    }
+
+    const basePrice = BASE_PRICES[category] || 250;
+    const multiplier = MULTIPLIERS[level] || 1.5;
+    return basePrice * multiplier;
+  };
+
   const handleOfferSkillChange = (skillName) => {
     setDealSkillOffered(skillName);
     const selected = me.offer.find(s => s.skill === skillName);
@@ -151,6 +196,26 @@ export default function Chat() {
     setDealPayer("none");
     setDealCompensationAmount("0");
   }, [activeContact, isDealPanelOpen]);
+
+  // Recalculate recommended compensation dynamically when skill selections modify
+  useEffect(() => {
+    if (!dealSkillOffered || !dealSkillWanted || !me || !activeContact) return;
+
+    const valueOffer = getSkillCost(dealSkillOffered, dealSkillOfferedLevel, me.offer);
+    const valueWant = getSkillCost(dealSkillWanted, dealSkillWantedLevel, activeContact.offer);
+    const diff = valueOffer - valueWant;
+
+    if (diff > 0) {
+      setDealPayer("them"); // they pay you
+      setDealCompensationAmount(diff.toFixed(0));
+    } else if (diff < 0) {
+      setDealPayer("me"); // you pay them
+      setDealCompensationAmount(Math.abs(diff).toFixed(0));
+    } else {
+      setDealPayer("none"); // balanced
+      setDealCompensationAmount("0");
+    }
+  }, [dealSkillOffered, dealSkillOfferedLevel, dealSkillWanted, dealSkillWantedLevel]);
 
   const fetchContacts = async (myEmail) => {
     setLoadingChats(true);
@@ -765,9 +830,26 @@ export default function Chat() {
 
                   {/* Cash Custom Adjustment */}
                   <div className="space-y-4 pt-4 border-t theme-border">
-                    <label className="text-[10px] font-black theme-text-muted uppercase tracking-widest ml-1">
-                      Cash Adjustment / Compensation
-                    </label>
+                    <div className="flex justify-between items-center ml-1">
+                      <label className="text-[10px] font-black theme-text-muted uppercase tracking-widest">
+                        Cash Adjustment / Compensation
+                      </label>
+                      {(() => {
+                        if (!dealSkillOffered || !dealSkillWanted) return null;
+                        const valueOffer = getSkillCost(dealSkillOffered, dealSkillOfferedLevel, me.offer);
+                        const valueWant = getSkillCost(dealSkillWanted, dealSkillWantedLevel, activeContact.offer);
+                        const diff = valueOffer - valueWant;
+                        if (diff === 0) {
+                          return <span className="text-[9px] font-black text-green-500 uppercase">Recommended: Balanced</span>;
+                        }
+                        const whoPays = diff > 0 ? "they pay you" : "you pay them";
+                        return (
+                          <span className="text-[9px] font-black text-blue-500 uppercase">
+                            Recommended: ₹{Math.abs(diff).toFixed(0)} ({whoPays})
+                          </span>
+                        );
+                      })()}
+                    </div>
                     
                     <div className="flex flex-col gap-3">
                       <select 

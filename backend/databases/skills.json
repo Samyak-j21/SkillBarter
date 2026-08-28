@@ -1,51 +1,309 @@
 [
   {
-    "name": "HTML",
+    "name": "Python",
     "level": "Easy",
     "weight": 1,
     "category": "Technology"
-  },
-  {
-    "name": "CSS",
-    "level": "Easy",
-    "weight": 1,
-    "category": "Technology"
-  },
-  {
-    "name": "Figma",
-    "level": "Easy",
-    "weight": 1,
-    "category": "Design"
-  },
-  {
-    "name": "SEO",
-    "level": "Easy",
-    "weight": 1,
-    "category": "Marketing"
-  },
-  {
-    "name": "Marketing",
-    "level": "Easy",
-    "weight": 1,
-    "category": "Marketing"
   },
   {
     "name": "JavaScript",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "C++",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Java",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "C#",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Rust",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Go",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "TypeScript",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Ruby",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "PHP",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Swift",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Kotlin",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Scala",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Haskell",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Perl",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Bash",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Shell Scripting",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Assembly",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "COBOL",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Fortran",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Lisp",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Prolog",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "R Programming",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Julia",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Dart",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Elixir",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Clojure",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "F#",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Groovy",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "MATLAB",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "SQL",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "HTML5",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "CSS3",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "SASS",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "GraphQL",
     "level": "Medium",
     "weight": 2,
     "category": "Technology"
   },
   {
-    "name": "Python",
+    "name": "REST API",
     "level": "Medium",
     "weight": 2,
     "category": "Technology"
   },
   {
-    "name": "UI/UX",
+    "name": "JSON",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
+  },
+  {
+    "name": "XML",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "YAML",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Markdown",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Webpack",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Vite",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Babel",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "npm",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Yarn",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "pnpm",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Git",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "GitHub",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "GitLab",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Subversion",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Mercurial",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
   },
   {
     "name": "React",
@@ -54,33 +312,5751 @@
     "category": "Technology"
   },
   {
-    "name": "Node.js",
+    "name": "Vue.js",
     "level": "Medium",
     "weight": 2,
     "category": "Technology"
   },
   {
-    "name": "C++",
+    "name": "Angular",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Svelte",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Next.js",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Nuxt.js",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Gatsby",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Remix",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Astro",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "SolidJS",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "AlpineJS",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "jQuery",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Ember.js",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Backbone.js",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "TailwindCSS",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Bootstrap",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Bulma",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Material UI",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Chakra UI",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Semantic UI",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Ant Design",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Styled Components",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Emotion",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "CSS Modules",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Redux",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "MobX",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Recoil",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Zustand",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Pinia",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Vuex",
     "level": "Advanced",
     "weight": 3,
     "category": "Technology"
   },
   {
-    "name": "Algorithms",
+    "name": "RxJS",
     "level": "Advanced",
     "weight": 3,
     "category": "Technology"
   },
   {
-    "name": "Data Science",
+    "name": "Node.js",
     "level": "Advanced",
     "weight": 3,
     "category": "Technology"
   },
   {
-    "name": "System Programming",
+    "name": "Deno",
     "level": "Advanced",
     "weight": 3,
     "category": "Technology"
+  },
+  {
+    "name": "Bun",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Express.js",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "NestJS",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Fastify",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Koa",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Django",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Flask",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "FastAPI",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Spring Boot",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Laravel",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Ruby on Rails",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "ASP.NET Core",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Echo",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Gin",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Fiber",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Ktor",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Play Framework",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Phoenix",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Sails.js",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "FeathersJS",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Strapi",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "KeystoneJS",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "PostgreSQL",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "MySQL",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "MongoDB",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Redis",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "SQLite",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "MariaDB",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Cassandra",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Neo4j",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "DynamoDB",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Firebase Realtime DB",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Firestore",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Oracle DB",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Microsoft SQL Server",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Elasticsearch",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "InfluxDB",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "TimescaleDB",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "CouchDB",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "CockroachDB",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Supabase",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "PlanetScale",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Prisma ORM",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Mongoose ORM",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Sequelize ORM",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "TypeORM",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Amazon Web Services",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Microsoft Azure",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Google Cloud Platform",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Docker",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Kubernetes",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Terraform",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Ansible",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Jenkins",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "GitHub Actions",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "GitLab CI/CD",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "CircleCI",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Travis CI",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Nginx",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Apache HTTP Server",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "HAProxy",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Caddy Server",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Prometheus",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Grafana",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "ELK Stack",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Logstash",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Kibana",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Linux Administration",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Ubuntu Server",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "CentOS",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Debian",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "RedHat",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Alpine Linux",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Serverless Framework",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "AWS Lambda",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Google Cloud Functions",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Vercel",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Netlify",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Heroku",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "DigitalOcean",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "React Native",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Flutter",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Ionic",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Xamarin",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Electron",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Tauri",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "SwiftUI",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Android SDK",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "iOS SDK",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Jetpack Compose",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Apache Cordova",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "NativeScript",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Machine Learning",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Deep Learning",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Natural Language Processing",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Computer Vision",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "TensorFlow",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "PyTorch",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Keras",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Scikit-Learn",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Pandas",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "NumPy",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Apache Spark",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Hadoop",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Data Pipelines",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Airflow",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Kafka",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Data Engineering",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Data Visualization",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Jupyter Notebooks",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Matplotlib",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Seaborn",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Tableau",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Power BI",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Looker",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "OpenCV",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Hugging Face",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Penetration Testing",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Ethical Hacking",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Metasploit",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Wireshark",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Nmap",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Cryptography",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Network Security",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Application Security",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Cloud Security",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "OWASP Top 10",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Firewall Configuration",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Identity Management",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "SIEM",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Incident Response",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Vulnerability Assessment",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Burp Suite",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Kali Linux",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Reverse Engineering",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Malware Analysis",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Jest",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Cypress",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Selenium",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Playwright",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Mocha",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Chai",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "JUnit",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "PyTest",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Postman API Testing",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Integration Testing",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Unit Testing",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "E2E Testing",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Load Testing",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "JMeter",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "SonarQube",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Manual Testing",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Unity 3D",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Unreal Engine",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Godot",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "WebGL",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Three.js",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "OpenGL",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Vulkan",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "DirectX",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Blender Scripting",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Pygame",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Shader Programming",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "GLSL",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "UI Design",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "UX Research",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Figma",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Adobe XD",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Sketch",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "InVision",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Axure RP",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Wireframing",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Prototyping",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "User Personas",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Usability Testing",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Information Architecture",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Design Systems",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Interaction Design",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Responsive Web Design",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Mobile App Design",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Customer Journey Mapping",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Design Thinking",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Moodboards",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Style Guides",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Adobe Photoshop",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Adobe Illustrator",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Vector Graphics",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "CorelDRAW",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Canva",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Logo Design",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Brand Identity",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Typography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Color Theory",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Layout Design",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Poster Design",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Flyer Design",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Infographics",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Business Card Design",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Icon Design",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Vector Tracing",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Print Production",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Prepress Setup",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Procreate",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Concept Art",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Character Design",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Illustration",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Digital Painting",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Pixel Art",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Matte Painting",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Storyboarding",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Calligraphy",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Sketching",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Watercolor Painting",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Oil Painting",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Acrylic Painting",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Sculpting",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Origami",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Calligraphy",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Comic Art",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Anime Drawing",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Blender",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Autodesk Maya",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "3ds Max",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "ZBrush",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "AutoCAD",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "SolidWorks",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Revit",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Sketchup",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "3D Modeling",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "3D Rendering",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Texturing",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "UV Mapping",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "V-Ray",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "KeyShot",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Substance Painter",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Architectural Visualization",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Interior Design Drafting",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Adobe After Effects",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Cinema 4D",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Motion Design",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Lottie Animations",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "2D Animation",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "3D Animation",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Character Rigging",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Kinetic Typography",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Explainer Videos",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Stop Motion",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Frame-by-Frame Animation",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Adobe Animate",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Project Management",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Agile Methodology",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Scrum Framework",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Product Management",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Business Analysis",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Operations Management",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Strategic Planning",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Change Management",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Risk Management",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Business Development",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "SaaS Management",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Startup Growth",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Consulting Skills",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Supply Chain Management",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Logistics Planning",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Accounting Principles",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Bookkeeping",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "QuickBooks",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Xero",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Financial Analysis",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Financial Modeling",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Corporate Finance",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Budgeting & Forecasting",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Tax Preparation",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Investment Analysis",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Stock Market Trading",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Cryptocurrency Trading",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Portfolio Management",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Excel Advanced Formulas",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Google Sheets Advanced",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "VBA & Macros",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Sales Negotiation",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Cold Email Outreach",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Salesforce CRM",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "HubSpot CRM",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Lead Generation",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Customer Success",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Sales Pitching",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Customer Relationship Management",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Sales Funnel Design",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Affiliate Management",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Public Speaking",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Corporate Communication",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Technical Writing",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Business Writing",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Executive Coaching",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Time Management",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Interpersonal Skills",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Conflict Resolution",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Team Leadership",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Presentation Design",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Keynote Presentations",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Microsoft PowerPoint",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Search Engine Optimization",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Technical SEO",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "On-Page SEO",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Off-Page SEO",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Link Building",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Keyword Research",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "SEMrush",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Ahrefs",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Google Analytics 4",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Google Tag Manager",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Google Search Console",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Hotjar",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Conversion Rate Optimization",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "SEO Site Audits",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Google Ads",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Facebook Ads",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Instagram Ads",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "LinkedIn Ads",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "TikTok Ads",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "YouTube Ads",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "PPC Campaigns",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Retargeting Ads",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Ad Copywriting",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Media Buying",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Budget Allocation",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Native Advertising",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Content Marketing",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Blogging",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Social Media Management",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Buffer tool",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Hootsuite",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Copywriting",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Newsletter Writing",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Mailchimp",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Email Marketing Campaigns",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "ActiveCampaign",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Klaviyo",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Copywriting for Landing Pages",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Scriptwriting for Ads",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Brand Voice Development",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Influencer Marketing",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "PR Pitching",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Pinterest Marketing",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Quora Marketing",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Acoustic Guitar",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Electric Guitar",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Classical Guitar",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Bass Guitar",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Piano",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Keyboard",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Drums",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Percussion",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Violin",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Viola",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Cello",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Double Bass",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Ukulele",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Mandolin",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Banjo",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Harp",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Flute",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Clarinet",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Oboe",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Bassoon",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Saxophone",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Trumpet",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Trombone",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Tuba",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "French Horn",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Harmonica",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Accordion",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Synthesizer Tuning",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Singing Techniques",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Vocal Warmups",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Breathing Exercises",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Choir Singing",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Opera Singing",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Pop Vocals",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Jazz Vocals",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Speech Level Singing",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Vocal Projection",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Voice Acting",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Music Production",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "FL Studio",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Ableton Live",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Logic Pro X",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Pro Tools",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "GarageBand",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Cubase",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Reaper",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Mixing Techniques",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Mastering Techniques",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Sound Design",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Audio Editing",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Podcast Editing",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Synthesizer Programming",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Foley Sound Effects",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Synthesizer Patching",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Music Theory",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Songwriting",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Lyrics Writing",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Music Composition",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Orchestration",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Sight Reading",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Ear Training",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Jazz Improvisation",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Arranging Music",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Chord Progressions",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "English",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Spanish",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "French",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "German",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Mandarin Chinese",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Japanese",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Korean",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Italian",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Portuguese",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Russian",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Hindi",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Arabic",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Dutch",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Swedish",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Norwegian",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Danish",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Finnish",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Turkish",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Polish",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Greek",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Hebrew",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Vietnamese",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Thai",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Indonesian",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Malay",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Czech",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Hungarian",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Romanian",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Ukrainian",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Persian",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Urdu",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Bengali",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Tamil",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Telugu",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Marathi",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Gujarati",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Punjabi",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Sanskrit",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Latin",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Ancient Greek",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Esperanto",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Sign Language",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "American Sign Language",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "British Sign Language",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Spanish Sign Language",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "French Translation",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "German Translation",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Japanese Interpretation",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Localization Services",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Subtitling",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Transcription",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Proofreading Translations",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "DSLR Camera Operation",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Mirrorless Camera Setup",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Manual Mode Photography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Studio Lighting Setup",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Natural Light Photography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Portrait Photography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Landscape Photography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Macro Photography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Astrophotography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Drone Photography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Underwater Photography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Street Photography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Fashion Photography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Product Photography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Food Photography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Event Photography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Wedding Photography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Architectural Photography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Videography Techniques",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Camera Rigging",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Adobe Premiere Pro",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "DaVinci Resolve",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Final Cut Pro X",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Color Grading",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Video Color Correction",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Audio Syncing",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Video Transitions",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "LumaFusion",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Stop Motion Videography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Time-Lapse Videography",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Slow Motion Capture",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Gimbal Stabilization Operations",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Design Skill Vol 1",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 2",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 3",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 4",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 5",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 6",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 7",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 8",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 9",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 10",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 11",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 12",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 13",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 14",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 15",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 16",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 17",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 18",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 19",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 20",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 21",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 22",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 23",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 24",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 25",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 26",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 27",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 28",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 29",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 30",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 31",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 32",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 33",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 34",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 35",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 36",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 37",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 38",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 39",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 40",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 41",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 42",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 43",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 44",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 45",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 46",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 47",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 48",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 49",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 50",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 51",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 52",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 53",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 54",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 55",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 56",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 57",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 58",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 59",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 60",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 61",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 62",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 63",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 64",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 65",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 66",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 67",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 68",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 69",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 70",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 71",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 72",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 73",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 74",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 75",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 76",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 77",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 78",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 79",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 80",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 81",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 82",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 83",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 84",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 85",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 86",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 87",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 88",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 89",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 90",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 91",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 92",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 93",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 94",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 95",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 96",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 97",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 98",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 99",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 100",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 101",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 102",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 103",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 104",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 105",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 106",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 107",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 108",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 109",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 110",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 111",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 112",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 113",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 114",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 115",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 116",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 117",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 118",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 119",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 120",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 121",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 122",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 123",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 124",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 125",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 126",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 127",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 128",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 129",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 130",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 131",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 132",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 133",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 134",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 135",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 136",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 137",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 138",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 139",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 140",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 141",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 142",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 143",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 144",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 145",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 146",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 147",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 148",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 149",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 150",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 151",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 152",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 153",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 154",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 155",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 156",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 157",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 158",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 159",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 160",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 161",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 162",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 163",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 164",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 165",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 166",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 167",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 168",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 169",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 170",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 171",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 172",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 173",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 174",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 175",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 176",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 177",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 178",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 179",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 180",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 181",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 182",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 183",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 184",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 185",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 186",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 187",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 188",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 189",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 190",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 191",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 192",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 193",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 194",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 195",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 196",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 197",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 198",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 199",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 200",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 201",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 202",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 203",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 204",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 205",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 206",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 207",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 208",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 209",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 210",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 211",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 212",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 213",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 214",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 215",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 216",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 217",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 218",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 219",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 220",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 221",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 222",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 223",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 224",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 225",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 226",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 227",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 228",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 229",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 230",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 231",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 232",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 233",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 234",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 235",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 236",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 237",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 238",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 239",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 240",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 241",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 242",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 243",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 244",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 245",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 246",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 247",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 248",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 249",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 250",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 251",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 252",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 253",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 254",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 255",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 256",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 257",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 258",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 259",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 260",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 261",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 262",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 263",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 264",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 265",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 266",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 267",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 268",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 269",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 270",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 271",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 272",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 273",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 274",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 275",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 276",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 277",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 278",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 279",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 280",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 281",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 282",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 283",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 284",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 285",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 286",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 287",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 288",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 289",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 290",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 291",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 292",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 293",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 294",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 295",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 296",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 297",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 298",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 299",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 300",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 301",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 302",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 303",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 304",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 305",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 306",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 307",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 308",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 309",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 310",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 311",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 312",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 313",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 314",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 315",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 316",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 317",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 318",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 319",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 320",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 321",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 322",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 323",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 324",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 325",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 326",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 327",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 328",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 329",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 330",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 331",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 332",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 333",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 334",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 335",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 336",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 337",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 338",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 339",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 340",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 341",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 342",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 343",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 344",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 345",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 346",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 347",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 348",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 349",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 350",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 351",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 352",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 353",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 354",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 355",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 356",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 357",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 358",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 359",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 360",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 361",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 362",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 363",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 364",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 365",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 366",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 367",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 368",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 369",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 370",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 371",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 372",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 373",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 374",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 375",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 376",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 377",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 378",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 379",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 380",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 381",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 382",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 383",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 384",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 385",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 386",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 387",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 388",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 389",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 390",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 391",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 392",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 393",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 394",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 395",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 396",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 397",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 398",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 399",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 400",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 401",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 402",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 403",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 404",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 405",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 406",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 407",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 408",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 409",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 410",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 411",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 412",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 413",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 414",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 415",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 416",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 417",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 418",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 419",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 420",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 421",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 422",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 423",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 424",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 425",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Languages"
+  },
+  {
+    "name": "Specialized Photography Skill Vol 426",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Photography"
+  },
+  {
+    "name": "Specialized Technology Skill Vol 427",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Technology"
+  },
+  {
+    "name": "Specialized Design Skill Vol 428",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Design"
+  },
+  {
+    "name": "Specialized Business Skill Vol 429",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Specialized Marketing Skill Vol 430",
+    "level": "Medium",
+    "weight": 2,
+    "category": "Marketing"
+  },
+  {
+    "name": "Specialized Music Skill Vol 431",
+    "level": "Easy",
+    "weight": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Specialized Languages Skill Vol 432",
+    "level": "Advanced",
+    "weight": 3,
+    "category": "Languages"
   }
 ]

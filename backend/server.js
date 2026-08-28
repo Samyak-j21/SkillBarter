@@ -323,6 +323,46 @@ function migrateSkillsDb() {
   }
 }
 
+// Dynamic Udemy-inspired Skill Valuation helper
+// Tech = ₹450, Business = ₹400, Design = ₹350, Marketing = ₹300, Photography/Music = ₹250, Languages = ₹200
+function calculateSkillValue(skillName, level, db) {
+  const nameLower = (skillName || "").trim().toLowerCase();
+  
+  // Find skill category in DB catalog or preset categories mapping
+  let category = "Technology";
+  if (db && db.skills) {
+    const foundSkill = db.skills.find(s => s.name.toLowerCase() === nameLower);
+    if (foundSkill && foundSkill.category) {
+      category = foundSkill.category;
+    } else if (PRESET_SKILL_CATEGORIES[nameLower]) {
+      category = PRESET_SKILL_CATEGORIES[nameLower];
+    }
+  } else if (PRESET_SKILL_CATEGORIES[nameLower]) {
+    category = PRESET_SKILL_CATEGORIES[nameLower];
+  }
+
+  const BASE_PRICES = {
+    "Technology": 450,
+    "Business": 400,
+    "Design": 350,
+    "Marketing": 300,
+    "Photography": 250,
+    "Music": 250,
+    "Languages": 200
+  };
+
+  const MULTIPLIERS = {
+    "Easy": 1.0,
+    "Medium": 1.5,
+    "Advanced": 2.5
+  };
+
+  const basePrice = BASE_PRICES[category] || 250;
+  const multiplier = MULTIPLIERS[level] || 1.5;
+
+  return basePrice * multiplier;
+}
+
 // Dynamically register custom user skills to the global catalog
 function registerNewSkills(skillsList, db) {
   if (!skillsList || !Array.isArray(skillsList)) return;
@@ -594,41 +634,41 @@ app.get("/api/users/matches", (req, res) => {
         matchType = "Mutual";
       }
 
-      // Compute skill exchange compensation details
-      // Alice's weight taught to Bob
-      let currentTaughtWeight = 0;
+      // Compute skill exchange compensation details based on Udemy-inspired category and level pricing
+      // Alice's taught value to Bob
+      let currentTaughtValue = 0;
       currentUser.offer.forEach(off => {
         const wantsThis = otherUser.want.some(w => w.skill.toLowerCase() === off.skill.toLowerCase());
         if (wantsThis) {
-          currentTaughtWeight += LEVEL_WEIGHTS[off.level] || 1;
+          currentTaughtValue += calculateSkillValue(off.skill, off.level, db);
         }
       });
 
-      // Bob's weight taught to Alice
-      let otherTaughtWeight = 0;
+      // Bob's taught value to Alice
+      let otherTaughtValue = 0;
       otherUser.offer.forEach(off => {
         const wantsThis = currentUser.want.some(w => w.skill.toLowerCase() === off.skill.toLowerCase());
         if (wantsThis) {
-          otherTaughtWeight += LEVEL_WEIGHTS[off.level] || 1;
+          otherTaughtValue += calculateSkillValue(off.skill, off.level, db);
         }
       });
 
-      // Compensation calculation (₹10 per level difference)
-      const levelDiff = currentTaughtWeight - otherTaughtWeight;
+      // Compensation calculation based on direct pricing differences
+      const valueDiff = currentTaughtValue - otherTaughtValue;
       let compensationText = "";
       let compensationValue = 0;
       let payTo = null; // Who needs to pay
 
-      if (levelDiff > 0) {
-        compensationValue = levelDiff * 10;
+      if (valueDiff > 0) {
+        compensationValue = valueDiff;
         payTo = currentUser.name;
-        compensationText = `${otherUser.name} pays you ₹${compensationValue.toFixed(2)} (You are teaching a higher level)`;
-      } else if (levelDiff < 0) {
-        compensationValue = Math.abs(levelDiff) * 10;
+        compensationText = `${otherUser.name} pays you ₹${compensationValue.toFixed(2)} (Value exchange difference)`;
+      } else if (valueDiff < 0) {
+        compensationValue = Math.abs(valueDiff);
         payTo = otherUser.name;
-        compensationText = `You pay ${otherUser.name} ₹${compensationValue.toFixed(2)} (They are teaching a higher level)`;
+        compensationText = `You pay ${otherUser.name} ₹${compensationValue.toFixed(2)} (Value exchange difference)`;
       } else {
-        compensationText = "Balanced Trade (No level compensation required)";
+        compensationText = "Balanced Trade (Exchange values match, no compensation required)";
       }
 
       matchedUsers.push({
@@ -647,7 +687,7 @@ app.get("/api/users/matches", (req, res) => {
           text: compensationText,
           value: compensationValue,
           payTo,
-          levelDiff
+          valueDiff
         }
       });
     }
