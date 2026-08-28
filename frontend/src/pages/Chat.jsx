@@ -49,7 +49,9 @@ export default function Chat() {
     }).filter(Boolean);
   };
 
-  // Load user session on mount
+  const [skillsCatalog, setSkillsCatalog] = useState([]);
+
+  // Load user session and skills catalog on mount
   useEffect(() => {
     const sessionData = localStorage.getItem("user");
     if (!sessionData) {
@@ -66,6 +68,16 @@ export default function Chat() {
     
     // Fetch active chats and potential contacts
     fetchContacts(currentUser.email);
+
+    // Fetch skills catalog
+    fetch(`${API_BASE_URL}/api/skills`)
+      .then(res => res.json())
+      .then(data => {
+        // Sort catalog alphabetically
+        const sorted = data.sort((a, b) => a.name.localeCompare(b.name));
+        setSkillsCatalog(sorted);
+      })
+      .catch(err => console.error("Error loading skills catalog in chat:", err));
   }, []);
 
   // Set initial selected contact if passed from dashboard/search
@@ -768,7 +780,7 @@ export default function Chat() {
                   </button>
                 </div>
 
-                {/* Drawer Body / Form */}
+                 {/* Drawer Body / Form */}
                 <form onSubmit={handleProposeDeal} className="flex-1 p-8 space-y-6">
                   {/* Skill Offered Section */}
                   <div className="space-y-3">
@@ -782,20 +794,23 @@ export default function Chat() {
                         className="flex-1 theme-bg-page border theme-border theme-text-primary px-4 py-3.5 rounded-2xl outline-none focus:border-blue-600 font-bold"
                         required
                       >
-                        <option value="" disabled>Select a skill you teach...</option>
-                        {me.offer && me.offer.map(item => (
-                          <option key={item.skill} value={item.skill}>
-                            {item.skill} ({item.category || "Skill"})
+                        <option value="" disabled>Select a skill from catalog...</option>
+                        {skillsCatalog.map(item => (
+                          <option key={`off-${item.name}`} value={item.name}>
+                            {item.name} ({item.category})
                           </option>
                         ))}
-                        {(!me.offer || me.offer.length === 0) && (
-                          <option value="" disabled>Go to Profile to add teaching skills!</option>
-                        )}
                       </select>
                       
-                      <span className="w-full sm:w-36 theme-bg-page border theme-border theme-text-secondary px-4 py-3.5 rounded-2xl font-black flex items-center justify-center text-[10px] uppercase tracking-widest">
-                        {dealSkillOfferedLevel}
-                      </span>
+                      <select
+                        value={dealSkillOfferedLevel}
+                        onChange={(e) => setDealSkillOfferedLevel(e.target.value)}
+                        className="w-full sm:w-36 theme-bg-page border theme-border theme-text-primary px-4 py-3.5 rounded-2xl outline-none focus:border-blue-600 font-bold text-xs uppercase tracking-wider"
+                      >
+                        <option value="Easy">Easy</option>
+                        <option value="Medium">Medium</option>
+                        <option value="Advanced">Advanced</option>
+                      </select>
                     </div>
                   </div>
 
@@ -811,20 +826,23 @@ export default function Chat() {
                         className="flex-1 theme-bg-page border theme-border theme-text-primary px-4 py-3.5 rounded-2xl outline-none focus:border-blue-600 font-bold"
                         required
                       >
-                        <option value="" disabled>Select a skill they teach...</option>
-                        {activeContact.offer && activeContact.offer.map(item => (
-                          <option key={item.skill} value={item.skill}>
-                            {item.skill} ({item.category || "Skill"})
+                        <option value="" disabled>Select a skill from catalog...</option>
+                        {skillsCatalog.map(item => (
+                          <option key={`want-${item.name}`} value={item.name}>
+                            {item.name} ({item.category})
                           </option>
                         ))}
-                        {(!activeContact.offer || activeContact.offer.length === 0) && (
-                          <option value="" disabled>This user hasn't added teaching skills yet.</option>
-                        )}
                       </select>
                       
-                      <span className="w-full sm:w-36 theme-bg-page border theme-border theme-text-secondary px-4 py-3.5 rounded-2xl font-black flex items-center justify-center text-[10px] uppercase tracking-widest">
-                        {dealSkillWantedLevel}
-                      </span>
+                      <select
+                        value={dealSkillWantedLevel}
+                        onChange={(e) => setDealSkillWantedLevel(e.target.value)}
+                        className="w-full sm:w-36 theme-bg-page border theme-border theme-text-primary px-4 py-3.5 rounded-2xl outline-none focus:border-blue-600 font-bold text-xs uppercase tracking-wider"
+                      >
+                        <option value="Easy">Easy</option>
+                        <option value="Medium">Medium</option>
+                        <option value="Advanced">Advanced</option>
+                      </select>
                     </div>
                   </div>
 

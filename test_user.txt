@@ -1,0 +1,47 @@
+========================================================================
+                     SKILLBARTER TEST USERS DIRECTORY
+========================================================================
+
+Use any of the following 6 test profiles to log in, test the cosine 
+matching alignments, and negotiate barter proposals.
+
+------------------------------------------------------------------------
+1. Aarav Sharma (Fullstack Web Dev)
+   Email: aarav@skillbarter.com
+   Password: aaravPass99!
+   Teaching Skills: React (Advanced), Node.js (Medium), SQL (Easy)
+   Learning Skills: Python (Medium), Figma (Advanced)
+
+2. Isha Patel (AI & Data Science Specialist)
+   Email: isha@skillbarter.com
+   Password: ishaPass88!
+   Teaching Skills: Python (Advanced), Data Science (Advanced), Machine Learning (Medium)
+   Learning Skills: React (Medium), UI/UX (Medium)
+
+3. Karan Malhotra (Lead UI/UX Designer)
+   Email:  karan@skillbarter.com
+   Password: karanPass77!
+   Teaching Skills: Figma (Advanced), UI Design (Advanced), Photoshop (Medium)
+   Learning Skills: HTML (Easy), CSS (Medium)
+
+4. Diya Sen (Growth Marketer & Copywriter)
+   Email: diya@skillbarter.com
+   Password: diyaPass66!
+   Teaching Skills: SEO (Advanced), Marketing (Medium), Copywriting (Medium)
+   Learning Skills: Python (Medium), SQL (Easy)
+
+5. Rohan Das (Musician & Composer)
+   Email: rohan@skillbarter.com
+   Password: rohanPass55!
+   Teaching Skills: Acoustic Guitar (Advanced), Music Theory (Medium), Drums (Easy)
+   Learning Skills: German (Medium), Video Editing (Medium)
+
+6. Ananya Rao (Translator & Linguist)
+   Email: ananya@skillbarter.com
+   Password: ananyaPass44!
+   Teaching Skills: German (Advanced), Spanish (Medium), Translation (Medium)
+   Learning Skills: Acoustic Guitar (Medium), Music Theory (Easy)
+
+------------------------------------------------------------------------
+All passwords are encrypted on database initialization using SHA-512 hashes.
+========================================================================

@@ -127,116 +127,125 @@ function migrateSingleDbToSplit() {
 // Trigger database separation migration check on load
 migrateSingleDbToSplit();
 
-// Initialize Mock Users if database has 0 users
+// Initialize Mock Users if database has 0 users (or to reset to the new set)
 function initializeMockUsers() {
   const db = readDb();
-  if (db.users && db.users.length > 0) return;
-
-  console.log("Initializing mock users inside db.json...");
+  
+  // Clean up old mock users and initialize the new 6 profiles
+  console.log("Initializing mock users inside users.json...");
 
   const mockUsersData = [
     {
-      email: "rahul@skillbarter.com",
-      name: "Rahul",
-      password: "password123",
+      email: "aarav@skillbarter.com",
+      name: "Aarav Sharma",
+      password: "aaravPass99!",
       offer: [
-        { skill: "HTML", level: "Easy" },
-        { skill: "CSS", level: "Easy" },
-        { skill: "JavaScript", level: "Medium" }
+        { skill: "React", level: "Advanced", category: "Technology" },
+        { skill: "Node.js", level: "Medium", category: "Technology" },
+        { skill: "SQL", level: "Easy", category: "Technology" }
       ],
       want: [
-        { skill: "Python", level: "Medium" },
-        { skill: "C++", level: "Advanced" }
+        { skill: "Python", level: "Medium", category: "Technology" },
+        { skill: "Figma", level: "Advanced", category: "Design" }
       ],
-      bio: "Frontend enthusiast looking to dive into system and backend programming."
+      bio: "Fullstack engineer interested in learning UI/UX systems and data pipelines."
     },
     {
-      email: "priya@skillbarter.com",
-      name: "Priya",
-      password: "password123",
+      email: "isha@skillbarter.com",
+      name: "Isha Patel",
+      password: "ishaPass88!",
       offer: [
-        { skill: "Python", level: "Medium" },
-        { skill: "Data Science", level: "Advanced" }
+        { skill: "Python", level: "Advanced", category: "Technology" },
+        { skill: "Data Science", level: "Advanced", category: "Technology" },
+        { skill: "Machine Learning", level: "Medium", category: "Technology" }
       ],
       want: [
-        { skill: "HTML", level: "Easy" },
-        { skill: "UI/UX", level: "Medium" }
+        { skill: "React", level: "Medium", category: "Technology" },
+        { skill: "UI/UX", level: "Medium", category: "Design" }
       ],
-      bio: "Data scientist wanting to build beautiful and intuitive web apps."
+      bio: "AI researcher wanting to build clean web layouts for models visualization."
     },
     {
-      email: "arjun@skillbarter.com",
-      name: "Arjun",
-      password: "password123",
+      email: "karan@skillbarter.com",
+      name: "Karan Malhotra",
+      password: "karanPass77!",
       offer: [
-        { skill: "C++", level: "Advanced" },
-        { skill: "Algorithms", level: "Advanced" }
+        { skill: "Figma", level: "Advanced", category: "Design" },
+        { skill: "UI Design", level: "Advanced", category: "Design" },
+        { skill: "Photoshop", level: "Medium", category: "Design" }
       ],
       want: [
-        { skill: "JavaScript", level: "Medium" },
-        { skill: "React", level: "Medium" }
+        { skill: "HTML", level: "Easy", category: "Technology" },
+        { skill: "CSS", level: "Medium", category: "Technology" }
       ],
-      bio: "Competitive programmer interested in building reactive web dev products."
+      bio: "Lead UI/UX Designer looking to learn frontend markup to code mockups directly."
     },
     {
-      email: "sarah@skillbarter.com",
-      name: "Sarah",
-      password: "password123",
+      email: "diya@skillbarter.com",
+      name: "Diya Sen",
+      password: "diyaPass66!",
       offer: [
-        { skill: "React", level: "Medium" },
-        { skill: "Node.js", level: "Medium" }
+        { skill: "SEO", level: "Advanced", category: "Marketing" },
+        { skill: "Marketing", level: "Medium", category: "Marketing" },
+        { skill: "Copywriting", level: "Medium", category: "Marketing" }
       ],
       want: [
-        { skill: "C++", level: "Advanced" },
-        { skill: "Python", level: "Medium" }
+        { skill: "Python", level: "Medium", category: "Technology" },
+        { skill: "SQL", level: "Easy", category: "Technology" }
       ],
-      bio: "Fullstack dev looking to learn system-level programming and AI pipelines."
+      bio: "Growth Marketer seeking automation tools development and script writing skills."
     },
     {
-      email: "kevin@skillbarter.com",
-      name: "Kevin",
-      password: "password123",
+      email: "rohan@skillbarter.com",
+      name: "Rohan Das",
+      password: "rohanPass55!",
       offer: [
-        { skill: "UI/UX", level: "Medium" },
-        { skill: "Figma", level: "Easy" }
+        { skill: "Acoustic Guitar", level: "Advanced", category: "Music" },
+        { skill: "Music Theory", level: "Medium", category: "Music" },
+        { skill: "Drums", level: "Easy", category: "Music" }
       ],
       want: [
-        { skill: "HTML", level: "Easy" },
-        { skill: "CSS", level: "Easy" }
+        { skill: "German", level: "Medium", category: "Languages" },
+        { skill: "Video Editing", level: "Medium", category: "Photography" }
       ],
-      bio: "Creative designer wanting to learn how to code my visual design components."
+      bio: "Composer wanting to learn foreign languages and record video logs."
     },
     {
-      email: "aisha@skillbarter.com",
-      name: "Aisha",
-      password: "password123",
+      email: "ananya@skillbarter.com",
+      name: "Ananya Rao",
+      password: "ananyaPass44!",
       offer: [
-        { skill: "Marketing", level: "Easy" },
-        { skill: "SEO", level: "Easy" }
+        { skill: "German", level: "Advanced", category: "Languages" },
+        { skill: "Spanish", level: "Medium", category: "Languages" },
+        { skill: "Translation", level: "Medium", category: "Languages" }
       ],
       want: [
-        { skill: "Python", level: "Medium" },
-        { skill: "Data Science", level: "Advanced" }
+        { skill: "Acoustic Guitar", level: "Medium", category: "Music" },
+        { skill: "Music Theory", level: "Easy", category: "Music" }
       ],
-      bio: "Digital marketer looking to automate analytics tasks with data and Python."
+      bio: "Translator and Linguist interested in acoustic music and classical guitar."
     }
   ];
 
   db.users = mockUsersData.map(u => {
     const { salt, hash } = hashPassword(u.password);
     return {
-      email: u.email,
+      email: u.email.toLowerCase(),
       name: u.name,
       salt: salt,
       passwordHash: hash,
       offer: u.offer,
       want: u.want,
-      bio: u.bio
+      bio: u.bio,
+      rating: 5.0,
+      completedExchanges: 0,
+      badges: [],
+      reviews: []
     };
   });
 
   writeDb(db);
-  console.log("Mock users initialized successfully in backend/db.json!");
+  console.log("Mock users initialized successfully in backend database!");
 }
 
 // Preset Skill Categories Database

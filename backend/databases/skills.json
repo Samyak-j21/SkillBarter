@@ -1491,13 +1491,13 @@
     "name": "UI Design",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "UX Research",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Figma",
@@ -1509,739 +1509,739 @@
     "name": "Adobe XD",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Sketch",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "InVision",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Axure RP",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Wireframing",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Prototyping",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "User Personas",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Usability Testing",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Information Architecture",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Design Systems",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Interaction Design",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Responsive Web Design",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Mobile App Design",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Customer Journey Mapping",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Design Thinking",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Moodboards",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Style Guides",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Adobe Photoshop",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Adobe Illustrator",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Vector Graphics",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "CorelDRAW",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Canva",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Logo Design",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Brand Identity",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Typography",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Color Theory",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Layout Design",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Poster Design",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Flyer Design",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Infographics",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Business Card Design",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Icon Design",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Vector Tracing",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Print Production",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Prepress Setup",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Procreate",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Concept Art",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Character Design",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Illustration",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Digital Painting",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Pixel Art",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Matte Painting",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Storyboarding",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Calligraphy",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Sketching",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Watercolor Painting",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Oil Painting",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Acrylic Painting",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Sculpting",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Origami",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Calligraphy",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Comic Art",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Anime Drawing",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Blender",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Autodesk Maya",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "3ds Max",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "ZBrush",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "AutoCAD",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "SolidWorks",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Revit",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Sketchup",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "3D Modeling",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "3D Rendering",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Texturing",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "UV Mapping",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "V-Ray",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "KeyShot",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Substance Painter",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Architectural Visualization",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Interior Design Drafting",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Adobe After Effects",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Cinema 4D",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Motion Design",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Lottie Animations",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "2D Animation",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "3D Animation",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Character Rigging",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Kinetic Typography",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Explainer Videos",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Stop Motion",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Frame-by-Frame Animation",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Adobe Animate",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Project Management",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Agile Methodology",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Scrum Framework",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Product Management",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Business Analysis",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Operations Management",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Strategic Planning",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Change Management",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Risk Management",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Business Development",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "SaaS Management",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Startup Growth",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Consulting Skills",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Supply Chain Management",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Logistics Planning",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Accounting Principles",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Bookkeeping",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "QuickBooks",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Xero",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Financial Analysis",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Financial Modeling",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Corporate Finance",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Budgeting & Forecasting",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Tax Preparation",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Investment Analysis",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Stock Market Trading",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Cryptocurrency Trading",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Portfolio Management",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Excel Advanced Formulas",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Google Sheets Advanced",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "VBA & Macros",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Sales Negotiation",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Cold Email Outreach",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Salesforce CRM",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "HubSpot CRM",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Lead Generation",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Customer Success",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Sales Pitching",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Customer Relationship Management",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Sales Funnel Design",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Affiliate Management",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Public Speaking",
@@ -2253,253 +2253,253 @@
     "name": "Corporate Communication",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Technical Writing",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Business Writing",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Executive Coaching",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Time Management",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Interpersonal Skills",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Conflict Resolution",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Team Leadership",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Presentation Design",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Keynote Presentations",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Microsoft PowerPoint",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Search Engine Optimization",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Technical SEO",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "On-Page SEO",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Off-Page SEO",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Link Building",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Keyword Research",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "SEMrush",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Ahrefs",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Google Analytics 4",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Google Tag Manager",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Google Search Console",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Hotjar",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Conversion Rate Optimization",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "SEO Site Audits",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Google Ads",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Facebook Ads",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Instagram Ads",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "LinkedIn Ads",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "TikTok Ads",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "YouTube Ads",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "PPC Campaigns",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Retargeting Ads",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Ad Copywriting",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Media Buying",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Budget Allocation",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Native Advertising",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Content Marketing",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Blogging",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Social Media Management",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Buffer tool",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Hootsuite",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Copywriting",
@@ -2511,97 +2511,97 @@
     "name": "Newsletter Writing",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Mailchimp",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Email Marketing Campaigns",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "ActiveCampaign",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Klaviyo",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Copywriting for Landing Pages",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Scriptwriting for Ads",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Brand Voice Development",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Influencer Marketing",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "PR Pitching",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Pinterest Marketing",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Quora Marketing",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Acoustic Guitar",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Electric Guitar",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Classical Guitar",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Bass Guitar",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Piano",
@@ -2613,7 +2613,7 @@
     "name": "Keyboard",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Drums",
@@ -2625,283 +2625,283 @@
     "name": "Percussion",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Violin",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Viola",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Cello",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Double Bass",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Ukulele",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Mandolin",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Banjo",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Harp",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Flute",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Clarinet",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Oboe",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Bassoon",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Saxophone",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Trumpet",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Trombone",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Tuba",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "French Horn",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Harmonica",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Accordion",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Synthesizer Tuning",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Singing Techniques",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Vocal Warmups",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Breathing Exercises",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Choir Singing",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Opera Singing",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Pop Vocals",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Jazz Vocals",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Speech Level Singing",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Vocal Projection",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Voice Acting",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Music Production",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "FL Studio",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Ableton Live",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Logic Pro X",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Pro Tools",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "GarageBand",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Cubase",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Reaper",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Mixing Techniques",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Mastering Techniques",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Sound Design",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Audio Editing",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Podcast Editing",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Synthesizer Programming",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Foley Sound Effects",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Synthesizer Patching",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Music Theory",
@@ -2913,55 +2913,55 @@
     "name": "Songwriting",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Lyrics Writing",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Music Composition",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Orchestration",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Sight Reading",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Ear Training",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Jazz Improvisation",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Arranging Music",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Chord Progressions",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "English",
@@ -2991,517 +2991,517 @@
     "name": "Mandarin Chinese",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Japanese",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Korean",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Italian",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Portuguese",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Russian",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Hindi",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Arabic",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Dutch",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Swedish",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Norwegian",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Danish",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Finnish",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Turkish",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Polish",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Greek",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Hebrew",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Vietnamese",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Thai",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Indonesian",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Malay",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Czech",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Hungarian",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Romanian",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Ukrainian",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Persian",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Urdu",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Bengali",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Tamil",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Telugu",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Marathi",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Gujarati",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Punjabi",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Sanskrit",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Latin",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Ancient Greek",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Esperanto",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Sign Language",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "American Sign Language",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "British Sign Language",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Spanish Sign Language",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "French Translation",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "German Translation",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Japanese Interpretation",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Localization Services",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Subtitling",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Transcription",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Proofreading Translations",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "DSLR Camera Operation",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Mirrorless Camera Setup",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Manual Mode Photography",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Studio Lighting Setup",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Natural Light Photography",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Portrait Photography",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Landscape Photography",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Macro Photography",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Astrophotography",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Drone Photography",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Underwater Photography",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Street Photography",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Fashion Photography",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Product Photography",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Food Photography",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Event Photography",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Wedding Photography",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Architectural Photography",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Videography Techniques",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Camera Rigging",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Adobe Premiere Pro",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "DaVinci Resolve",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Final Cut Pro X",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Color Grading",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Video Color Correction",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Audio Syncing",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Video Transitions",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "LumaFusion",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Stop Motion Videography",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Time-Lapse Videography",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Slow Motion Capture",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Gimbal Stabilization Operations",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Design Skill Vol 1",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 2",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 3",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 4",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 5",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 6",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 7",
@@ -3513,37 +3513,37 @@
     "name": "Specialized Design Skill Vol 8",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 9",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 10",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 11",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 12",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 13",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 14",
@@ -3555,37 +3555,37 @@
     "name": "Specialized Design Skill Vol 15",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 16",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 17",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 18",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 19",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 20",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 21",
@@ -3597,37 +3597,37 @@
     "name": "Specialized Design Skill Vol 22",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 23",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 24",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 25",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 26",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 27",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 28",
@@ -3639,37 +3639,37 @@
     "name": "Specialized Design Skill Vol 29",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 30",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 31",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 32",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 33",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 34",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 35",
@@ -3681,37 +3681,37 @@
     "name": "Specialized Design Skill Vol 36",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 37",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 38",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 39",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 40",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 41",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 42",
@@ -3723,37 +3723,37 @@
     "name": "Specialized Design Skill Vol 43",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 44",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 45",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 46",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 47",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 48",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 49",
@@ -3765,37 +3765,37 @@
     "name": "Specialized Design Skill Vol 50",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 51",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 52",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 53",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 54",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 55",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 56",
@@ -3807,37 +3807,37 @@
     "name": "Specialized Design Skill Vol 57",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 58",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 59",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 60",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 61",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 62",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 63",
@@ -3849,37 +3849,37 @@
     "name": "Specialized Design Skill Vol 64",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 65",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 66",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 67",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 68",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 69",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 70",
@@ -3891,37 +3891,37 @@
     "name": "Specialized Design Skill Vol 71",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 72",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 73",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 74",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 75",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 76",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 77",
@@ -3933,37 +3933,37 @@
     "name": "Specialized Design Skill Vol 78",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 79",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 80",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 81",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 82",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 83",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 84",
@@ -3975,37 +3975,37 @@
     "name": "Specialized Design Skill Vol 85",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 86",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 87",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 88",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 89",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 90",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 91",
@@ -4017,37 +4017,37 @@
     "name": "Specialized Design Skill Vol 92",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 93",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 94",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 95",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 96",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 97",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 98",
@@ -4059,37 +4059,37 @@
     "name": "Specialized Design Skill Vol 99",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 100",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 101",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 102",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 103",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 104",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 105",
@@ -4101,37 +4101,37 @@
     "name": "Specialized Design Skill Vol 106",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 107",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 108",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 109",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 110",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 111",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 112",
@@ -4143,37 +4143,37 @@
     "name": "Specialized Design Skill Vol 113",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 114",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 115",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 116",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 117",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 118",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 119",
@@ -4185,37 +4185,37 @@
     "name": "Specialized Design Skill Vol 120",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 121",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 122",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 123",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 124",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 125",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 126",
@@ -4227,37 +4227,37 @@
     "name": "Specialized Design Skill Vol 127",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 128",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 129",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 130",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 131",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 132",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 133",
@@ -4269,37 +4269,37 @@
     "name": "Specialized Design Skill Vol 134",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 135",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 136",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 137",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 138",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 139",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 140",
@@ -4311,37 +4311,37 @@
     "name": "Specialized Design Skill Vol 141",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 142",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 143",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 144",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 145",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 146",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 147",
@@ -4353,37 +4353,37 @@
     "name": "Specialized Design Skill Vol 148",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 149",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 150",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 151",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 152",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 153",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 154",
@@ -4395,37 +4395,37 @@
     "name": "Specialized Design Skill Vol 155",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 156",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 157",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 158",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 159",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 160",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 161",
@@ -4437,37 +4437,37 @@
     "name": "Specialized Design Skill Vol 162",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 163",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 164",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 165",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 166",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 167",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 168",
@@ -4479,37 +4479,37 @@
     "name": "Specialized Design Skill Vol 169",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 170",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 171",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 172",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 173",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 174",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 175",
@@ -4521,37 +4521,37 @@
     "name": "Specialized Design Skill Vol 176",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 177",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 178",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 179",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 180",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 181",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 182",
@@ -4563,37 +4563,37 @@
     "name": "Specialized Design Skill Vol 183",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 184",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 185",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 186",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 187",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 188",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 189",
@@ -4605,37 +4605,37 @@
     "name": "Specialized Design Skill Vol 190",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 191",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 192",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 193",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 194",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 195",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 196",
@@ -4647,37 +4647,37 @@
     "name": "Specialized Design Skill Vol 197",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 198",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 199",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 200",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 201",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 202",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 203",
@@ -4689,37 +4689,37 @@
     "name": "Specialized Design Skill Vol 204",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 205",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 206",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 207",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 208",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 209",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 210",
@@ -4731,37 +4731,37 @@
     "name": "Specialized Design Skill Vol 211",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 212",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 213",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 214",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 215",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 216",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 217",
@@ -4773,37 +4773,37 @@
     "name": "Specialized Design Skill Vol 218",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 219",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 220",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 221",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 222",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 223",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 224",
@@ -4815,37 +4815,37 @@
     "name": "Specialized Design Skill Vol 225",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 226",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 227",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 228",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 229",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 230",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 231",
@@ -4857,37 +4857,37 @@
     "name": "Specialized Design Skill Vol 232",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 233",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 234",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 235",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 236",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 237",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 238",
@@ -4899,37 +4899,37 @@
     "name": "Specialized Design Skill Vol 239",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 240",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 241",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 242",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 243",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 244",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 245",
@@ -4941,37 +4941,37 @@
     "name": "Specialized Design Skill Vol 246",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 247",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 248",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 249",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 250",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 251",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 252",
@@ -4983,37 +4983,37 @@
     "name": "Specialized Design Skill Vol 253",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 254",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 255",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 256",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 257",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 258",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 259",
@@ -5025,37 +5025,37 @@
     "name": "Specialized Design Skill Vol 260",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 261",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 262",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 263",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 264",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 265",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 266",
@@ -5067,37 +5067,37 @@
     "name": "Specialized Design Skill Vol 267",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 268",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 269",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 270",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 271",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 272",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 273",
@@ -5109,37 +5109,37 @@
     "name": "Specialized Design Skill Vol 274",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 275",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 276",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 277",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 278",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 279",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 280",
@@ -5151,37 +5151,37 @@
     "name": "Specialized Design Skill Vol 281",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 282",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 283",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 284",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 285",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 286",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 287",
@@ -5193,37 +5193,37 @@
     "name": "Specialized Design Skill Vol 288",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 289",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 290",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 291",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 292",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 293",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 294",
@@ -5235,37 +5235,37 @@
     "name": "Specialized Design Skill Vol 295",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 296",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 297",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 298",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 299",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 300",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 301",
@@ -5277,37 +5277,37 @@
     "name": "Specialized Design Skill Vol 302",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 303",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 304",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 305",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 306",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 307",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 308",
@@ -5319,37 +5319,37 @@
     "name": "Specialized Design Skill Vol 309",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 310",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 311",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 312",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 313",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 314",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 315",
@@ -5361,37 +5361,37 @@
     "name": "Specialized Design Skill Vol 316",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 317",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 318",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 319",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 320",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 321",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 322",
@@ -5403,37 +5403,37 @@
     "name": "Specialized Design Skill Vol 323",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 324",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 325",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 326",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 327",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 328",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 329",
@@ -5445,37 +5445,37 @@
     "name": "Specialized Design Skill Vol 330",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 331",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 332",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 333",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 334",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 335",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 336",
@@ -5487,37 +5487,37 @@
     "name": "Specialized Design Skill Vol 337",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 338",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 339",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 340",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 341",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 342",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 343",
@@ -5529,37 +5529,37 @@
     "name": "Specialized Design Skill Vol 344",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 345",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 346",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 347",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 348",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 349",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 350",
@@ -5571,37 +5571,37 @@
     "name": "Specialized Design Skill Vol 351",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 352",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 353",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 354",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 355",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 356",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 357",
@@ -5613,37 +5613,37 @@
     "name": "Specialized Design Skill Vol 358",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 359",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 360",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 361",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 362",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 363",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 364",
@@ -5655,37 +5655,37 @@
     "name": "Specialized Design Skill Vol 365",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 366",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 367",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 368",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 369",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 370",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 371",
@@ -5697,37 +5697,37 @@
     "name": "Specialized Design Skill Vol 372",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 373",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 374",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 375",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 376",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 377",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 378",
@@ -5739,37 +5739,37 @@
     "name": "Specialized Design Skill Vol 379",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 380",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 381",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 382",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 383",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 384",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 385",
@@ -5781,37 +5781,37 @@
     "name": "Specialized Design Skill Vol 386",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 387",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 388",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 389",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 390",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 391",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 392",
@@ -5823,37 +5823,37 @@
     "name": "Specialized Design Skill Vol 393",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 394",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 395",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 396",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 397",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 398",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 399",
@@ -5865,37 +5865,37 @@
     "name": "Specialized Design Skill Vol 400",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 401",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 402",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 403",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 404",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 405",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 406",
@@ -5907,37 +5907,37 @@
     "name": "Specialized Design Skill Vol 407",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 408",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 409",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 410",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 411",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 412",
     "level": "Medium",
     "weight": 2,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 413",
@@ -5949,37 +5949,37 @@
     "name": "Specialized Design Skill Vol 414",
     "level": "Advanced",
     "weight": 3,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 415",
     "level": "Medium",
     "weight": 2,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 416",
     "level": "Easy",
     "weight": 1,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 417",
     "level": "Advanced",
     "weight": 3,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 418",
     "level": "Medium",
     "weight": 2,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 419",
     "level": "Easy",
     "weight": 1,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 420",
@@ -5991,37 +5991,37 @@
     "name": "Specialized Design Skill Vol 421",
     "level": "Medium",
     "weight": 2,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 422",
     "level": "Easy",
     "weight": 1,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 423",
     "level": "Advanced",
     "weight": 3,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 424",
     "level": "Medium",
     "weight": 2,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 425",
     "level": "Easy",
     "weight": 1,
-    "category": "Languages"
+    "category": "Technology"
   },
   {
     "name": "Specialized Photography Skill Vol 426",
     "level": "Advanced",
     "weight": 3,
-    "category": "Photography"
+    "category": "Technology"
   },
   {
     "name": "Specialized Technology Skill Vol 427",
@@ -6033,30 +6033,30 @@
     "name": "Specialized Design Skill Vol 428",
     "level": "Easy",
     "weight": 1,
-    "category": "Design"
+    "category": "Technology"
   },
   {
     "name": "Specialized Business Skill Vol 429",
     "level": "Advanced",
     "weight": 3,
-    "category": "Business"
+    "category": "Technology"
   },
   {
     "name": "Specialized Marketing Skill Vol 430",
     "level": "Medium",
     "weight": 2,
-    "category": "Marketing"
+    "category": "Technology"
   },
   {
     "name": "Specialized Music Skill Vol 431",
     "level": "Easy",
     "weight": 1,
-    "category": "Music"
+    "category": "Technology"
   },
   {
     "name": "Specialized Languages Skill Vol 432",
     "level": "Advanced",
     "weight": 3,
-    "category": "Languages"
+    "category": "Technology"
   }
 ]

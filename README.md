@@ -10,7 +10,8 @@ The application features a sleek **tactile warm-dim light/dark theme**, fully fl
 
 *   **🎯 Smart Vector Compatibility**: Evaluates user skill portfolios and calculates real-time compatibility scores using **Cosine Similarity Mathematical Vector Models** to display matching exchange partners.
 *   **📱 Tinder-style Discovery Swiper**: Interactive card deck (`/match`) that allows members to easily browse matching profiles using gesture-like skip or proposal triggers with rich animations.
-*   **💬 Integrated Negotiation Chat**: Live workspace with short-polling messaging. Features an interactive **Barter Contract Creator** where members can select skill items, align levels, and add custom compensation options.
+*   **💬 Dynamic Intermediary Negotiation Chat**: Live workspace with short-polling messaging. Features an interactive **Barter Contract Creator** where members can select *any* skill from our 1000+ catalog, set customized difficulty levels, and calculate mathematical cash compensation.
+*   **🧮 Udemy-inspired Pricing Mathematics**: Auto-calculates cash adjustments when skill levels or categories mismatch (e.g., Advanced Tech skill vs. Easy Language skill). Values nullify to ₹0 when skills of equal base value and level are swapped.
 *   **🏅 Gamified Trust Badges & Metrics**: Keeps track of average ratings, completed barter exchange milestones, and automatically assigns achievements:
     *   `First Barter`: Logged after completing 1 trade.
     *   `Skill Maestro`: Earned after 3 successful barters.
@@ -28,7 +29,7 @@ The application features a sleek **tactile warm-dim light/dark theme**, fully fl
 *   **Styling System**: TailwindCSS (v3.4.19) + native CSS custom variables in `main.css` for the warm-dim alabaster matte palette.
 *   **Routing**: React Router DOM (v6.30.3) managing the SPA flow.
 *   **Backend Server**: Node.js + Express.js API engine.
-*   **Storage**: Segmented JSON database system located under `backend/databases/` (handling users, deals, requests, and message feeds).
+*   **Storage**: Segmented JSON database system located under `backend/databases/` (handling 1010+ skills catalog, users, deals, requests, and message feeds).
 
 ---
 
@@ -37,8 +38,8 @@ The application features a sleek **tactile warm-dim light/dark theme**, fully fl
 ```
 SkillBarter/
 ├── backend/
-│   ├── databases/          # Decoupled JSON database files
-│   ├── cryptoHelper.js     # Secure credential hashing
+│   ├── databases/          # Decoupled JSON database files (users, skills, deals, messages, requests, posts)
+│   ├── cryptoHelper.js     # Secure credential hashing (SHA-512 + salt)
 │   ├── server.js           # Express API endpoints & vector match models
 │   └── package.json
 ├── frontend/
@@ -51,6 +52,7 @@ SkillBarter/
 │   │   └── App.jsx         # App router
 │   ├── vercel.json         # Vercel SPA routing redirects
 │   └── package.json
+├── test_user.txt           # Login credentials of 6 pre-configured test users
 └── README.md
 ```
 
@@ -66,7 +68,7 @@ SkillBarter/
 ```bash
 cd backend
 npm install
-npm run dev # Runs nodemon on http://localhost:5000
+npm run dev # Runs nodemon on http://localhost:5000 and self-seeds databases
 ```
 
 ### 2. Run the Frontend Client
@@ -76,7 +78,32 @@ npm install
 npm run dev # Runs Vite dev server on http://localhost:5173
 ```
 
-Open `http://localhost:5173` in your browser.
+Open `http://localhost:5173` in your browser. Refer to `test_user.txt` in the root folder for sample login credentials.
+
+---
+
+## 🌐 Deployment Guidelines
+
+### Backend — Render Deployment
+The backend is pre-configured to dynamically bind to Render's injection port (`process.env.PORT`) and has CORS enabled for all origins.
+
+1.  Create a new **Web Service** on [Render](https://render.com).
+2.  Connect your GitHub repository.
+3.  Set **Root Directory** to `backend`.
+4.  Set **Build Command** to `npm install`.
+5.  Set **Start Command** to `npm start`.
+6.  Once deployed, copy the Render live URL (e.g. `https://skillbarter-backend.onrender.com`).
+
+### Frontend — Vercel Deployment
+The frontend is configured with a dynamic API Base URL resolver and has `vercel.json` SPA routing rewrites enabled.
+
+1.  Create a new project on [Vercel](https://vercel.com).
+2.  Connect your GitHub repository.
+3.  Set **Root Directory** to `frontend`.
+4.  In **Environment Variables**, add:
+    *   Key: `VITE_API_BASE_URL`
+    *   Value: `https://your-render-backend-url.onrender.com` (Your live Render URL without a trailing slash)
+5.  Click **Deploy**. Vercel will compile the Vite assets and launch your site!
 
 ---
 
