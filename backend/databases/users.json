@@ -2,8 +2,8 @@
   {
     "email": "aarav@skillbarter.com",
     "name": "Aarav Sharma",
-    "salt": "d8affd9639614b25466bb72a0a9df465",
-    "passwordHash": "6d626f473bb9f76545b0852b7173abccafdc04dd1a6783289bd75b8798d2a54d1dcb1cdfc9196f96ba724d7f2db549419c856dc7c8864288a48090d60f3e9baa",
+    "salt": "f1b7996553e26c1cbaa673df54f37003",
+    "passwordHash": "b3d15b2a6f9afcd4fde858b917d808d0195ce898ef745da2d652d1a3aac1b5f172de81edffa8b537173a7336b57232c4b756e3058b06327e33d61ba440c5081f",
     "offer": [
       {
         "skill": "React",
@@ -42,8 +42,8 @@
   {
     "email": "isha@skillbarter.com",
     "name": "Isha Patel",
-    "salt": "b0d534ed7e1e66e92986312be9e29c77",
-    "passwordHash": "626d5327cae34d0d898e8449531e4f925f3135c33ba5a3a679a877763ab5265bf83000a29a092bc7a2415059b4ba2f14cb792caf5225914ac44714dcfd7762c1",
+    "salt": "66a63fa93edc8663fe31db1eca14aa2f",
+    "passwordHash": "e14bebd77ec7af9a233b82b528ddc4e625fc28a94454104e249f3c6ed5c3878d188344d236ff4b7b71b0f9339d9e572851a2cf310225b2acf771d4454ab86eff",
     "offer": [
       {
         "skill": "Python",
@@ -82,8 +82,8 @@
   {
     "email": "karan@skillbarter.com",
     "name": "Karan Malhotra",
-    "salt": "c82060d04b458e0645e5c7a94a602ddf",
-    "passwordHash": "554f07fb0b45055c69bfbe32aac06912614d11ec285cd5d0b0c2b72d53dcfe512145c85f55efe023f6c9ec92288b3c64345f89f0832e6df4411ac468da680a20",
+    "salt": "7cc0c456d8e8c2fbf58387dd4b1aa92b",
+    "passwordHash": "ac9eb6bb6240a05e98ced18723e958d00ebce08d2b8f1f17cf3910abd91ee00b2649e3a850f9ee59570eff465e077a715ae7d8b2befcd40aa0477eccd56f126b",
     "offer": [
       {
         "skill": "Figma",
@@ -122,8 +122,8 @@
   {
     "email": "diya@skillbarter.com",
     "name": "Diya Sen",
-    "salt": "05912d4856bedcb7e28753cba4562cdc",
-    "passwordHash": "88126d20d9196deaaf32eba843874b5c70ff013b895e87bbc2e34ece29ccc58708daa3bde666c97d9b1c21bf261f8d19b240681739ca813915e9d4bc8129be77",
+    "salt": "e2e21ea1b480f7fcdfa501ab1c207644",
+    "passwordHash": "c94204c51940b16757b3119128f57e182fb82f0dcc0a82e8bc4ebd354fcb81cc8fca10929b31f02856ca8fcc0ece236995d1a324a7cedc28dba352fa914a5f30",
     "offer": [
       {
         "skill": "SEO",
@@ -162,8 +162,8 @@
   {
     "email": "rohan@skillbarter.com",
     "name": "Rohan Das",
-    "salt": "4067c7ab90aaa3c6c1cb878521757375",
-    "passwordHash": "6767a6697c0a66261639bf577da6340bbd5e0024a87e471eac65049f368506865120ada63d1ce32be99db0623f6192591338a92177dd87f4ebbce4e8ef13d56e",
+    "salt": "4d2614d9d88ac7360b111ccc58b7d4cb",
+    "passwordHash": "0a6ba9e135e7051486d131bc0776895b3638d71e6a2ca1d57e45bebc2bbe1aae1943b133779ce7c264f3c7044958246fef3dd1f786032e89a559fee025d518db",
     "offer": [
       {
         "skill": "Acoustic Guitar",
@@ -202,8 +202,8 @@
   {
     "email": "ananya@skillbarter.com",
     "name": "Ananya Rao",
-    "salt": "c055b21eb5e170e966fb18b9ce51ec09",
-    "passwordHash": "835953062c218a4db6460bea516c160af4f8b875047eada744a3d11c1da2fa3c82fae1eb171824ec24239ed56bb0fab5dc6383c8b010686bd1b3d2dda8e0c786",
+    "salt": "31f00896db1ddc90ce2cd360880868d3",
+    "passwordHash": "84f1b054b7767e81c9037bb49b63ded488aaf4129cf514979580ec82570a475a02ae0275e21e031c832b414f19f8924395e0ce43a9ee3a9a8e41546970f39290",
     "offer": [
       {
         "skill": "German",
